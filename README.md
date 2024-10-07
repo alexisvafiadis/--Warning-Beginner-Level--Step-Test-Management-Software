@@ -1,5 +1,6 @@
 # Step Test Data Management Software
-> **WARNING: This project is quite old and was created when I was still a beginner with C#, OOP, and the tools used in this application. It may not follow best practices and is a reflection of my early learning experience.**
+> [!CAUTION]  
+> **This project is quite old and was created when I was still a beginner with C#, OOP, and the tools used in this application. It may not follow best practices and is a reflection of my early learning experience.**
 
 
 ## Introduction
@@ -11,7 +12,7 @@ The **Step Test Data Manager** is a desktop application designed to automate the
 
 - **User Registration**: Add new participants to the system by entering personal details such as name, date of birth, and email.
 - **Step Test Management**: Conduct Step Tests by recording participants' heart rates, calculate aerobic capacity, and track their fitness rating.
-- **Data Analysis**: View a graphical representation of test data with trend lines and regression analysis.
+- **Data Visualization**: View a graphical representation of test data with a regression trend line.
 - **Session Management**: Run multiple tests in one session, switching between participants and storing test results.
 - **Email Sharing**: Automatically send test results to participants via email.
 - **Search and Filter**: Easily find participants or tests with a robust search and filter system.
@@ -72,59 +73,61 @@ Below are some screenshots of all pages that show how the software works and loo
 #### Home
 This is the home screen where you can see the list of all registered people. It includes buttons  advanced search inputs on the right, navigation buttons at the top to access all other features, and, for each person, buttons to choose and view their tests, or take a new test for them. But one can also choose to create a new test before choosing a person. Clicking a person will show their information on the right instead of the search parameters, and enable the user to edit it.
 
-<img src="App Demo Images/Home.png" alt="Home Screen" width="600px">
+<img src="App Demo Images/Home.png" alt="Home Screen" width="650px">
 
 ---
 
 #### Register a new Person
 This form is used to create a new person in the database, allowing them to take Step Tests.
 
-<img src="App Demo Images/Person Registration.png" alt="Person Registration Form" width="600px">
+<img src="App Demo Images/Person Registration.png" alt="Person Registration Form" width="400px">
 
 ---
 
 #### Take a New Test
 This small form is used when creating a new test. You can input essential information for the new test session.
 
-<img src="App Demo Images/Create New Test.png" alt="Create New Test Form" width="600px">
+<img src="App Demo Images/Create New Test.png" alt="Create New Test Form" width="250px">
 
 ---
 
 #### Choose a Test Taker
 In this window, you can select a person from the list to take a test or complete a form to create a new person if they are not already registered.
 
-<img src="App Demo Images/Choose Test Taker.png" alt="Choose Test Taker Window" width="600px">
+<img src="App Demo Images/Choose Test Taker.png" alt="Choose Test Taker Window" width="650px">
 
 ---
 
 #### Test Performance Input
 This screen allows you to input the heart rate for each moment of effort, with a timer to start, pause, and restart for ease during the test.
 
-<img src="App Demo Images/Test Input.png" alt="Test Input Screen" width="600px">
+<img src="App Demo Images/Test Input.png" alt="Test Input Screen" width="250px">
 
 ---
 
 #### View Test Overview and Results
 This page displays all pre-test information, test input fields, and person details, along with the test results. You can also add comments, save the test, or return to the home screen from here.
 
-<img src="App Demo Images/Test Input and Results.png" alt="Test Input and Results Screen" width="600px">
+<img src="App Demo Images/Test Input and Results.png" alt="Test Input and Results Screen" width="650px">
 
 ---
 
 ### View Analytics
-
 The Analytics page gives a global view of all the tests taken (this feature is currently unfinished).
 
-<img src="App Demo Images/Analytics.png" alt="Analytics Page" width="600px">
+<img src="App Demo Images/Analytics.png" alt="Analytics Page" width="150px">
 
 ---
 
 ### Change Settings
-
 This section allows you to modify settings for future tests, such as step height, tester's initials, and whether to send test results by email.
 
-<img src="App Demo Images/Settings.png" alt="Settings Page" width="600px">
+<img src="App Demo Images/Settings.png" alt="Settings Page" width="250px">
 
+### Help
+This is a small window that one can open from the menu to read a synthetic guide for the Software.
+
+<img src="App Demo Images/Help.png" alt="Help Window" width="450px">
 
 ## Possible Enhancements
 - Export Functionality: Allow exporting test results in PDF or CSV format rather than text.
