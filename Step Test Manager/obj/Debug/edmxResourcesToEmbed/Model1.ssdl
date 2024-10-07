@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="MP">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BirthDate" Type="date" />
+    <Property Name="FamilyName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Gender" Type="nvarchar" MaxLength="6" Nullable="false" />
+    <Property Name="lastused" Type="date" Nullable="false" />
+    <Property Name="email" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="ST">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MemberId" Type="int" Nullable="false" />
+    <Property Name="stepheight" Type="int" Nullable="false" />
+    <Property Name="date" Type="date" />
+    <Property Name="maxhr" Type="int" Nullable="false" />
+    <Property Name="tinit" Type="nvarchar" MaxLength="5" />
+    <Property Name="hrlist" Type="nvarchar" MaxLength="70" Nullable="false" />
+    <Property Name="aercap" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="rating" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="age" Type="int" Nullable="false" />
+    <Property Name="remarks" Type="text" />
+  </EntityType>
+  <Association Name="STConstraint">
+    <End Role="MP" Type="Self.MP" Multiplicity="1" />
+    <End Role="ST" Type="Self.ST" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MP">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ST">
+        <PropertyRef Name="MemberId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="MP" EntityType="Self.MP" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ST" EntityType="Self.ST" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="STConstraint" Association="Self.STConstraint">
+      <End Role="MP" EntitySet="MP" />
+      <End Role="ST" EntitySet="ST" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

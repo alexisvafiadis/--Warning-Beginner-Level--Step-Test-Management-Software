@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Database1ModelStoreContainer" CdmEntityContainer="DBEntities">
+    <EntitySetMapping Name="ST">
+      <EntityTypeMapping TypeName="Database1Model.ST">
+        <MappingFragment StoreEntitySet="ST">
+          <ScalarProperty Name="remarks" ColumnName="remarks" />
+          <ScalarProperty Name="age" ColumnName="age" />
+          <ScalarProperty Name="rating" ColumnName="rating" />
+          <ScalarProperty Name="aercap" ColumnName="aercap" />
+          <ScalarProperty Name="hrlist" ColumnName="hrlist" />
+          <ScalarProperty Name="tinit" ColumnName="tinit" />
+          <ScalarProperty Name="maxhr" ColumnName="maxhr" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="stepheight" ColumnName="stepheight" />
+          <ScalarProperty Name="MemberId" ColumnName="MemberId" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MP">
+      <EntityTypeMapping TypeName="Database1Model.MP">
+        <MappingFragment StoreEntitySet="MP">
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="lastused" ColumnName="lastused" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="FamilyName" ColumnName="FamilyName" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

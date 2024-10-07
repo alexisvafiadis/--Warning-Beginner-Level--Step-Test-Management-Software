@@ -1,0 +1,58 @@
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\bin\Debug\Step Test Manager.exe.config
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\bin\Debug\Step Test Manager.exe
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\bin\Debug\Step Test Manager.pdb
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Form1.resources
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Properties.Resources.resources
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.GenerateResource.cache
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.exe
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.pdb
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Add.resources
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Form2.resources
+C:\Users\alexi\source\repos\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.UserControl1.resources
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Add.resources
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Form1.resources
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Form2.resources
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Properties.Resources.resources
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.exe
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.pdb
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Database1.mdf
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Database1_log.ldf
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Step Test Manager.exe.config
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Step Test Manager.exe
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Step Test Manager.pdb
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\EntityFramework.dll
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\EntityFramework.xml
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Form3.resources
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.CopyComplete
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Database1DataSet.Designer.cs
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Database1DataSet.xsc
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Database1DataSet.xsd
+C:\Users\alexi\OneDrive\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Database1DataSet.xss
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Database1.mdf
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Database1_log.ldf
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Step Test Manager.exe.config
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Step Test Manager.exe
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\Step Test Manager.pdb
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\EntityFramework.dll
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\EntityFramework.xml
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Form1.resources
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Properties.Resources.resources
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.GenerateResource.cache
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.CopyComplete
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.exe
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.pdb
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step_Test_Manager.Help.resources
+C:\Users\alexi\OneDrive - ISEP\Bureau\codage\Step Test Manager\Step Test Manager\obj\Debug\Step Test Manager.csproj.AssemblyReference.cache
