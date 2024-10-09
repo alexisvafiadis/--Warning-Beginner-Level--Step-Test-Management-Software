@@ -7,6 +7,8 @@
 
 The **Step Test Data Manager** is a desktop application designed to automate the process of collecting, analyzing, and storing data from Step Tests. The Step Test involves measuring a participant’s heart rate at various effort levels and calculating their aerobic capacity. This application simplifies the traditionally manual process, making it easier to track and analyze health data over time. The system supports multiple participants in one session, allowing for efficient data management in fitness centers or medical environments.
 
+---
+
 
 ## Features & Functionality
 
@@ -18,6 +20,8 @@ The **Step Test Data Manager** is a desktop application designed to automate the
 - **Search and Filter**: Easily find participants or tests with a robust search and filter system.
 - **Import/Export Participants**: Import participant data from files and manage a large number of records efficiently.
 
+---
+
 
 ## Step Test Principle
 
@@ -25,10 +29,12 @@ The table below (found on the internet) illustrates the rating based on age and 
 
 <img src="https://www.whyiexercise.com/images/3-minute-step-test-chart-for-men.jpg" alt="Illustration of the principle of the Step Test" width="600"/>
 
+---
+
 
 ## Project Structure
 
-The project structure is relatively simple and may not follow the best practices, as this project was developed when I was still a beginner in C# and object-oriented programming. The project has been is structured as follows:
+The project structure is relatively simple and **does not follow the best practices**, as this project was developed when I was still a beginner in C# and object-oriented programming. The project has been is structured as follows:
 
 - **Step Test Manager Folder**: This folder contains the core files and resources of the project, including the main logic and settings.
   
@@ -51,6 +57,8 @@ The project structure is relatively simple and may not follow the best practices
 
   - **Properties Subfolder**: This subfolder stores modifiable application settings ('Settings.settings') that can be adjusted through the software. These settings are saved and persisted across sessions.
   
+---
+
 
 ## Technologies Used
 
